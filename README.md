@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/davidedj10/checktemp/master/plugin.service.checktemp/icon.png" width="100px"/> 
+<img src="https://raw.githubusercontent.com/davidedj10/checktemp/master/plugin.service.checktemp/icon.png" width="180px"/> 
 # checktemp
 Simple openelec plugin to show up the temperature of the SoC through a webserver running on ::8080, it's just not finished yet. !!!FOR RASPBERRY PI!!!
 
